@@ -3,7 +3,7 @@ Deep Learning organ segmentation uncertainty paper pulished at XXX with title: X
 This repository contains code and documentation used in the publication.
 
 ## ProstatennUNetDataCreate
-Contains code for training and performing inference in nnUNet
+Contains code for training and inference in nnUNet, used in the paper
 
 ## evalObserverStudy
 Contains code for performing the evaluation and calculations presented in the paper
