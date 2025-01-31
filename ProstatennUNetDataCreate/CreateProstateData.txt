@@ -1,0 +1,5 @@
+Run p0.extractCleanDICOMProstate.py
+Run 1.preProcessDataForTraining.py
+Copy data manually into nnUNet folders
+Run nnUNet training. 
+
